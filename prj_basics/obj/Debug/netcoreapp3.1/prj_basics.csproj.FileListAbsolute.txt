@@ -1,0 +1,13 @@
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\bin\Debug\netcoreapp3.1\prj_basics.exe
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\bin\Debug\netcoreapp3.1\prj_basics.deps.json
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\bin\Debug\netcoreapp3.1\prj_basics.runtimeconfig.json
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\bin\Debug\netcoreapp3.1\prj_basics.runtimeconfig.dev.json
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\bin\Debug\netcoreapp3.1\prj_basics.dll
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\bin\Debug\netcoreapp3.1\prj_basics.pdb
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\obj\Debug\netcoreapp3.1\prj_basics.csprojAssemblyReference.cache
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\obj\Debug\netcoreapp3.1\prj_basics.AssemblyInfoInputs.cache
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\obj\Debug\netcoreapp3.1\prj_basics.AssemblyInfo.cs
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\obj\Debug\netcoreapp3.1\prj_basics.csproj.CoreCompileInputs.cache
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\obj\Debug\netcoreapp3.1\prj_basics.dll
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\obj\Debug\netcoreapp3.1\prj_basics.pdb
+D:\Career\01 - Professional Work\01 - Source Codes\5. C#\samples_csharp_core_console\prj_basics\obj\Debug\netcoreapp3.1\prj_basics.genruntimeconfig.cache
