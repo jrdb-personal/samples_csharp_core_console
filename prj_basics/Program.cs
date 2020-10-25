@@ -33,8 +33,39 @@ namespace prj_basics
 
             //sample string
             string str1 = "String 1";
-            string str2 = "String 2";
+            string str2;
 
+            Console.WriteLine("str1 is {0}", str1);
+
+            str2 = str1;
+            str1 = "String 2";
+
+            Console.WriteLine("str2 is {0}", str2);
+            Console.WriteLine("str1 is {0}", str1);
+
+            //sample array
+
+            string[,] mda =
+            {
+                {"Allen", "10"},
+                {"Emily", "8"},
+                {"Johnny", "7"},
+                {"Marian", "9"}
+            };
+
+            Console.WriteLine("mda first element is {0}, {1}", mda[0, 0], mda[0, 1]);
+            Console.WriteLine("mda third element is {0}, {1}", mda[2, 0], mda[2, 1]);
+
+            string[][] activities =
+            {
+                new string [] {"piano", "basketball", "drawing"},
+                new string [] {"piano", "singing"},
+                new string [] {"basketball", "football", "swimming"},
+                new string [] {"chess"}
+
+            };
+
+            Console.WriteLine("activies first element: {0}, {1}, {2},", activities[0][0], activities[0][1], activities[0][2]);
 
             return 0;
         }
