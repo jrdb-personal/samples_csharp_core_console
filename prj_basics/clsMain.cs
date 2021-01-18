@@ -1,5 +1,6 @@
 ﻿using System;
 using prj_basics_type_samples;
+using prj_basics_oop_concepts;
 
 
 namespace prj_basics
@@ -69,7 +70,36 @@ namespace prj_basics
 
             Console.WriteLine("activies first element: {0}, {1}, {2},", activities[0][0], activities[0][1], activities[0][2]);
 
+            //oop inheritance
+            SampleParentClass parent = new SampleParentClass();
+            SampleChildClass child = new SampleChildClass();
+
+            parent.showValue();
+            child.showValue();
+
+            //oop polymorphism - interface inheritance
+            Clerk objClerk = new Clerk();
+            Supervisor objSupervisor = new Supervisor();
+
+            Console.WriteLine("Clerk salary is {0}", getSalary(objClerk));
+            Console.WriteLine("Supervisor salary is {0}", getSalary(objSupervisor));
+
+
+            //oop polymorphism - virtual function overrides
+            Employee objEmployee = new Employee();
+            objEmployee = new Clerk();
+            Console.WriteLine("Employee title is {0}", objEmployee.showTitle());
+            objEmployee = new Supervisor();
+            Console.WriteLine("Employee title is {0}", objEmployee.showTitle());
+
+
             return 0;
+
+        }
+
+        static decimal getSalary(IComputeSalary employee)
+        {
+            return employee.computeSalary();
         }
     }
 
