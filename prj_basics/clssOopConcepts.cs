@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace prj_basics
+namespace prj_basics_oop_concepts
 {
-    class clsInheritance
+    class SampleClass
     {
+
     }
 }
